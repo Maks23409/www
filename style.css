@@ -1,0 +1,59 @@
+header{
+    background-color: gray;
+    color: aquamarine;
+    border-radius: 8px;
+}
+.contacts{
+    padding: 20px;
+}
+.contacts p{
+    font-size: 20px;
+}
+.contacts a{
+    color: aquamarine;
+    text-decoration: none;
+}
+.skills{
+    display: inline-block;
+    width: 45%;
+    margin-top: 10px;
+}
+.skills ul{
+    list-style: none;
+    padding: 0;
+}
+.skills li{
+    background-color: gray;
+    color: aquamarine;
+    padding: 6px 12px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+}
+.info{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    background-color: gray;
+    margin-top: 10px;
+    padding: 0 10px 5px 10px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.05);
+}
+.project-card{
+    background-color: gray;
+    border-left: 4px solid aquamarine;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.project-card h4{
+    margin: 0 0 6px 0;
+    color: aquamarine;
+}
+.project-card p{
+    margin: 0;
+    font-size: 14px;
+    color: aquamarine;
+}
